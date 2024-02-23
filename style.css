@@ -1,0 +1,21 @@
+.my-blog{
+    color: white;
+}
+
+h1{
+    font-family: 'Work Sans', sans-serif;
+}
+body{
+    background-color: burlywood;
+}
+
+.bg-antiquewhite{
+    background-color: antiquewhite
+}
+.bg-salmon{
+    background-color: salmon;
+}
+
+p{
+    font-family: 'Work Sans', sans-serif;;
+}
