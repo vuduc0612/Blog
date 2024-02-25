@@ -19,3 +19,7 @@ body{
 p{
     font-family: 'Work Sans', sans-serif;;
 }
+.dropdown-menu {
+    min-width: 5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
